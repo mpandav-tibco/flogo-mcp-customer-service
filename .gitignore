@@ -194,3 +194,6 @@ config/production.json
 test-results/
 coverage/
 *.testresult
+
+# Git LFS
+.git/lfs/
