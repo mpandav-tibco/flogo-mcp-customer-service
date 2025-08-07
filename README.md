@@ -59,9 +59,23 @@ Sophia asks her AI assistant to help. The AI, connected through Flogo MCP:
 ```
 
 
-## 🎬  Quick Demo Walkthrough
+## 🎬 Demo Video
 
-https://github.com/mpandav-tibco/flogo-mcp-customer-service/raw/main/demo-recording/ai-driven.customer-service.mp4
+### Complete Demo Walkthrough
+
+[![Flogo MCP Customer Service Demo](https://img.youtube.com/vi/-XZ6GThtzLE/maxresdefault.jpg)](https://www.youtube.com/watch?v=-XZ6GThtzLE)
+
+*Click the thumbnail above to watch the complete AI-driven customer service demo on YouTube*
+
+### Alternative Links:
+- 📺 **[Watch on YouTube](https://www.youtube.com/watch?v=-XZ6GThtzLE)** - Full demo walkthrough
+- 📱 **[Direct MP4](https://github.com/mpandav-tibco/flogo-mcp-customer-service/raw/main/demo-recording/ai-driven.customer-service.mp4)** - Download/offline viewing
+
+### What You'll See:
+1. 🔍 **Customer data retrieval** using MCP Resources
+2. ⚡ **Order expediting** using MCP Tools  
+3. ✉️ **Email generation** using MCP Prompts
+4. 🔗 **Seamless AI integration** with enterprise systems
 
 ---
 
